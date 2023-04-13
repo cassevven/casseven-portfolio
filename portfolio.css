@@ -3,6 +3,10 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 0%;
+}
+
 .site-header {
   display: flex;
   align-items: flex-end;
