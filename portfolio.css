@@ -3,8 +3,8 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0%;
+html {
+  margin: 0;
 }
 
 .site-header {
