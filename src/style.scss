@@ -54,6 +54,10 @@ a:hover {
   padding: 30px;
 }
 
+.hr {
+padding-bottom: 25px;
+}
+
 .right {
   display: flex;
   flex-direction: column;
@@ -65,7 +69,7 @@ a:hover {
 .skills {
   display: flex;
   flex-direction: row;
-  justify-content:space-around;
+  justify-content:space-between;
   text-align: center;
 }
 
